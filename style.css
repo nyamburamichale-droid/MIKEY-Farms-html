@@ -55,5 +55,5 @@ body{
     text-shadow:black 2px 2px 10px;
 }
 h1::before{
-    content: 🌱
+    content:"🚜";
 }
