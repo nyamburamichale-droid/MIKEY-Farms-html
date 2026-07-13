@@ -65,6 +65,9 @@ h1::before{
         flex-direction:column;
         text-align: center;
     }
+    .left{
+        margin-bottom: 20px;    
+    }
     }
 @media(max-width:1024px){
     .login{
