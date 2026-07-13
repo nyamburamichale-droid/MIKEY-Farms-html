@@ -57,3 +57,21 @@ body{
 h1::before{
     content:"🚜";
 }
+@media(max-width:768px){
+    .login{
+        width:95%;
+    }
+    .container{
+        flex-direction:column;
+        text-align: center;
+    }
+    }
+@media(max-width:1024px){
+    .login{
+        width:70%;          
+    }
+    .container{
+        flex-direction:column;
+        text-align: center; 
+    }
+}     
